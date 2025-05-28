@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: CodeLih
-language: cn
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,9 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-remote_theme: jerryc127/hexo-theme-butterfly
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
