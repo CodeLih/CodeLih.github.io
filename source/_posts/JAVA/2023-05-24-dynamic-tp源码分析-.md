@@ -1,9 +1,9 @@
 ---
 layout: post
-title: MathJax Test
+title: dynamic-tp动态线程池源码分析
 date: 2017-07-30
 categories: JAVA
-tags: mathjax 
+tags: java 
 ---
 
 # dynamic-tp核心流程源码解读篇
