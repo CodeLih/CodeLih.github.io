@@ -2,8 +2,13 @@
 layout: post
 title: dynamic-tp动态线程池源码分析
 date: 2017-07-30
-categories: JAVA
-tags: java 
+categories:
+        - JAVA
+        - 后端
+tags:
+    - java
+    - 源码分析
+    - springboot
 ---
 
 # dynamic-tp核心流程源码解读篇
