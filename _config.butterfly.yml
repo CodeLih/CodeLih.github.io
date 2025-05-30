@@ -87,7 +87,7 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img:  #2c3b52
+footer_img:  rgb(44,59,82)
 
 # Website Background
 # Can set it to color or image url
@@ -290,11 +290,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: 主题 GitHub
       link: https://github.com/codelih
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 该博客只作为个人记录生活和工作当中一些需要记录的内容
   card_recent_post:
     enable: true
     # If set 0 will show all
