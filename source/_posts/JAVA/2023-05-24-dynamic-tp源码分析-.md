@@ -3,8 +3,8 @@ layout: post
 title: dynamic-tp动态线程池源码分析
 date: 2017-07-30
 categories:
-        - JAVA
         - 后端
+        - JAVA
 tags:
     - java
     - 源码分析
