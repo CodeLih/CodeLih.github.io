@@ -1,9 +1,9 @@
-name: Blog
+name: Pages
 
 on:
   push:
     branches:
-      - master # default branch
+      - main # default branch
 
 jobs:
   build:
